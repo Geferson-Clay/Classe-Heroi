@@ -21,7 +21,7 @@ class Heroi {
                 ataque = "usou Stangle";
                 break;
             default:
-                ataque = "usou um ataque genérico";
+                ataque = "usou um ataque estranho";
         }
 
         const mensagem = `O ${this.tipo} ${this.nome} atacou usando ${ataque}`;
