@@ -18,7 +18,7 @@ class Heroi {
                 ataque = "usou artes Bola de fogo";
                 break;
             case "Druida":
-                ataque = "usou Enraizar";
+                ataque = "usou Stangle";
                 break;
             default:
                 ataque = "usou um ataque genérico";
